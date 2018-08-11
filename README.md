@@ -1,4 +1,4 @@
-# An Integer Linear Programming approach to the Graph Coloring Problem and Sudoku Application
+#Linear Programming Approach to the Graph Coloring Problem and Sudoku Application
 
 __Definition 1:__ A `coloring` of an undirected graph G consists in assigning a number (or a color) to each node, with the restriction that any two nodes that have an edge in between cannot be assigned the same number (or color).
 
