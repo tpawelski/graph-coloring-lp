@@ -1,4 +1,4 @@
-# Solving the Graph Coloring Problem and Sudoku Application with Linear Programming Algorithms
+# Solving the Graph Coloring Problem and Sudoku Application with Linear Programming in Python
   
   The graph coloring problem (finding the chromatic number) is a common problem in Management Science with applications including scheduling optimization, timetabling, assignment problems, etc. 
   
