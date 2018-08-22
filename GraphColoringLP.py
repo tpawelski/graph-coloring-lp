@@ -1,7 +1,7 @@
 from pulp import *
 
 #file containint the list of edges in graph G
-edge_list = open("/Users/tommypawelski/Downloads/edges.dat")
+edge_list = open("edges.dat")
 
 #creates a 30x30 nested list of 0's to make adjacency matrix for graph G
 list0 =[]
